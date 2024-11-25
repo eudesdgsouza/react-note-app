@@ -4,10 +4,6 @@ Um aplicativo sde gerenciamento de notas desenvolvido em **React**. Este projeto
 
 ---
 
-# Deploy
-- [Live]()
-
-
 ## **📋 Funcionalidades**
 
 - 📌 **Adicionar notas**: Crie novas anotações rapidamente.
