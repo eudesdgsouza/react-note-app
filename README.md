@@ -47,7 +47,6 @@ Durante o desenvolvimento deste projeto, foram explorados conceitos importantes 
 
 ## **🛠️ Melhorias Futuras**
 
-- 📱 **Responsividade**: Ajustar a interface para telas menores.
 - 🗂️ **Categorias**: Permitir agrupar notas por categorias.
 - ☁️ **Sincronização na Nuvem**: Salvar e sincronizar notas utilizando uma API.
 
