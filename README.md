@@ -3,6 +3,8 @@
 Um aplicativo sde gerenciamento de notas desenvolvido em **React**. Este projeto foi criado com o objetivo de praticar conceitos de front-end, como componentes reutilizáveis, estado, e gerenciamento de eventos no React.
 
 ---
+## Deploy
+- [Live](https://react-note-app-teal.vercel.app/)
 
 ## **📋 Funcionalidades**
 
